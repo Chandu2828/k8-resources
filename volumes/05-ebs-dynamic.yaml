@@ -1,7 +1,7 @@
 apiVersion: v1 
 kind: PersistentVolumeClaim 
 metadata:
-  name: ebs-dynamice 
+  name: ebs-dynamic
 spec:
   storageClassName: roboshop-ebs 
   accessModes:
