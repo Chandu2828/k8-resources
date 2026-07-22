@@ -40,7 +40,7 @@ metadata:
     purpose: deployment 
 spec:
   selector: 
-    project: robsohop 
+    project: roboshop 
     tier: frontend 
     component: frontend 
     purpose: deployment 
